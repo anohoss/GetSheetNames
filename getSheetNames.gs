@@ -1,5 +1,5 @@
-function getSheetNames(ssUrl, ignoreSheetNames) {
-  let ss = SpreadsheetApp.openByUrl(ssUrl);
+function getSheetNames(ssId, ignoreSheetNames) {
+  let ss = SpreadsheetApp.openById(ssId);
   return ContentService.createTextOutput(
     ss.getSheets()
     .map(value => value.getName())

@@ -2,7 +2,7 @@
 Get the name of each sheet from the spreadsheet.
 
 ## Deployment URL
-https://script.google.com/macros/s/AKfycbyX9GZRS7R5l8RY4mbdqpfTlPGzSJQujTxxPG2DrETffmL6FubwAxIJATxEk2Bl3yEtsQ/exec
+https://script.google.com/macros/s/AKfycbwJp2S0gD8DxZahzJmTHZQWVGABf9pObb2sms1InI6jEJANo8ityWWlWUVSibEUW-Guzw/exec
 
 ## Required parameters
 - id  
